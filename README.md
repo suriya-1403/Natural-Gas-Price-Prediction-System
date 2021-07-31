@@ -1,9 +1,11 @@
 ## Natural Gas Price Detection Using Machine Learning Model
 
-(Para Abt intro)
+Forecasting natural gas prices is a powerful and essential tool which has become more important for different stakeholders in the natural gas market, allowing them to make better decisions for managing the potential risk, reducing the gap between the demand and supply, and optimizing the usage of resources based on accurate predictions. <br><br>
+Accurate natural gas price forecasting not only provides an important guide for effective implementation of energy policy and planning, but also is extremely significant in economic planning, energy investment, and environmental conservation. <br><br>
+The aim of this project is to build data-driven machine learning  models for natural gas price forecasting. <br><br>
 
-### Heading 1
-
+### Technical Architecture
+[Image](src)
 <!-- Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
