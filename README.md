@@ -5,7 +5,7 @@ Accurate natural gas price forecasting not only provides an important guide for 
 The aim of this project is to build data-driven machine learning  models for natural gas price forecasting. <br><br>
 
 ### Technical Architecture
-[Image](src)
+![Image](https://github.com/suriya-1403/Natural-Gas-Price-Prediction-System/blob/main/Images/Technical%20Architecture.png)
 <!-- Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
