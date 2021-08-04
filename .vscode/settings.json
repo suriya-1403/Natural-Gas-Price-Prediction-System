@@ -30,6 +30,6 @@
         "venv.bak{,/**}",
         ".vscode{,/**}"
     ],
-    "appService.defaultWebAppToDeploy": "/subscriptions/8d9d2c86-688c-447b-9919-12aa4bc41292/resourceGroups/cloud-shell-storage-centralindia/providers/Microsoft.Web/sites/Natural-Gas-Price-Prediction-System",
-    "appService.deploySubpath": "."
+    "appService.deploySubpath": ".",
+    "appService.defaultWebAppToDeploy": "/subscriptions/8d9d2c86-688c-447b-9919-12aa4bc41292/resourceGroups/suriyakrishnan.s2019_rg_Linux_centralus/providers/Microsoft.Web/sites/Natural-Gas-Price-Prediction-System"
 }
