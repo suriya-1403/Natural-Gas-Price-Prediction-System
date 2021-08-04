@@ -40,7 +40,7 @@ In this the project preprocessing and training of the data set is done by using 
 After model building we build a web application using flask framework.
 
 ## Flow Chart
-![Image](https://github.com/suriya-1403/Natural-Gas-Price-Prediction-System/blob/main/Images/Technical%20Architecture.png)
+![Image](https://github.com/suriya-1403/Natural-Gas-Price-Prediction-System/blob/main/Images/Flow%20chart.png)
 
 ## Advantages and Disadvantages
 | Prediction Model  | Advantages | Disadvantages |
@@ -69,7 +69,7 @@ The project has been built using 2 models of prediction namely the Decision Tree
 - https://publikationsserver.tu-braunschweig.de/servlets/MCRFileNodeServlet/dbbs_derivate_00027726/Beitrag299.pdf
 - https://www.mdpi.com/1996-1073/12/9/1680/pdf
 ## UI Output Screenshots
-![Image](https://github.com/suriya-1403/Natural-Gas-Price-Prediction-System/blob/main/Images/Technical%20Architecture.png)
+![Image](https://github.com/suriya-1403/Natural-Gas-Price-Prediction-System/blob/main/Images/UI%20Image.png)
 
 ### Contributors
 - [Suriyakrishnan Sathish](https://github.com/suriya-1403)
